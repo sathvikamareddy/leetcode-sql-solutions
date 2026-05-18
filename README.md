@@ -86,6 +86,15 @@ WHERE e.salary > m.salary;
 | TOTAL      | 2               |
 ---
 
+## Solved Problems
+
+| # | Problem | Difficulty | Solution |
+|---|----------|------------|----------|
+| 1757 | Recyclable and Low Fat Products | Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
+| 584 | Find Customer Referee | Easy | [View](Easy/584_Find_Customer_Referee.sql) |
+
+---
+
 ## Goals
 
 * Solve SQL problems consistently
