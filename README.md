@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 0               |
+| Easy       | 2               |
 | Medium     | 0               |
 | Hard       | 0               |
-
+| TOTAL      | 2               |
 ---
 
 ## Goals
