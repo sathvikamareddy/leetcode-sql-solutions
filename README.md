@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 2               |
+| Easy       | 3               |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 2               |
+| TOTAL      | 3               |
 ---
 
 ## Solved Problems
@@ -92,7 +92,7 @@ WHERE e.salary > m.salary;
 |---|----------|------------|----------|
 | 1757 | Recyclable and Low Fat Products | Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
 | 584 | Find Customer Referee | Easy | [View](Easy/584_Find_Customer_Referee.sql) |
-
+| 595 | Big Countries         | Easy |[View](Easy/595_Big_Countries.sql) |
 ---
 
 ## Goals
