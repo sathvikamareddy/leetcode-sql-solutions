@@ -80,20 +80,21 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 4               |
+| Easy       | 5               |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 4               |
+| TOTAL      | 5               |
 ---
 
 ## Solved Problems
 
-| # | Problem | Difficulty | Solution |
-|---|----------|------------|----------|
-| 1757 | Recyclable and Low Fat Products | Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
-| 584 | Find Customer Referee | Easy | [View](Easy/584_Find_Customer_Referee.sql) |
-| 595 | Big Countries         | Easy |[View](Easy/595_Big_Countries.sql) |
-| 1148| Article Views         | Easy |[View](Easy/1148_Article_Views.sql)|
+| Day | Q no | Problem | Difficulty | Solution |
+|-----|----|----------|------------|----------|
+| Day 1 | 1757 | Recyclable and Low Fat Products | Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
+| Day 2 | 584 | Find Customer Referee | Easy | [View](Easy/584_Find_Customer_Referee.sql) |
+| Day 3 | 595 | Big Countries | Easy | [View](Easy/595_Big_Countries.sql) |
+| Day 4 | 1148 | Article Views I | Easy | [View](Easy/1148_Article_Views.sql) |
+| Day 5 | 1683 | Invalid Tweets | Easy | [View](Easy/1683_Invalid_Tweets.sql) |
 ---
 
 ## Goals
