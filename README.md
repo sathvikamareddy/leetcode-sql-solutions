@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 5               |
+| Easy       | 6               |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 5               |
+| TOTAL      | 6               |
 ---
 
 ## Solved Problems
@@ -95,6 +95,7 @@ WHERE e.salary > m.salary;
 | Day 3 | 595 | Big Countries | Easy | [View](Easy/595_Big_Countries.sql) |
 | Day 4 | 1148 | Article Views I | Easy | [View](Easy/1148_Article_Views.sql) |
 | Day 5 | 1683 | Invalid Tweets | Easy | [View](Easy/1683_Invalid_Tweets.sql) |
+| Day 6 | 1378 | Replace Employee ID With The Unique Identifier| Easy | [View](Easy/1378_Replace_Employee_Id_With_The_Unique_Identifier.sql) |
 ---
 
 ## Goals
