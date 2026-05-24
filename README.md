@@ -98,6 +98,7 @@ WHERE e.salary > m.salary;
 | Day 5 | 1683 | Invalid Tweets | Easy | [View](Easy/1683_Invalid_Tweets.sql) |
 | Day 6 | 1378 | Replace Employee ID With The Unique Identifier| Easy | [View](Easy/1378_Replace_Employee_Id_With_The_Unique_Identifier.sql) |
 | Day 7 | 1068 | Product Sales Analysis | Easy |[View](Easy/1068_Product_Sales_Analysis1.sql) |
+| Day 8 | 1581 |  Customer Who Visited but Did Not Make Any Transactions | Easy | [View](Easy/Easy/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
 ---
 
 ## Goals
