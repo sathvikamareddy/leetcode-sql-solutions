@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 11              |
+| Easy       | 12              |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 11              |
+| TOTAL      | 12              |
 
 ---
 
@@ -102,6 +102,7 @@ WHERE e.salary > m.salary;
 | Day 9 | 197 | Rising Temperature | Easy |[View](Easy/197_Rising_Temperature) |
 | Day-10| 1251| Average Selling Price | Easy | [View](Easy/1251_Average_Selling_Price) |
 | Day-11|620| Not Boring Movies | Easy|[View](Easy/620_Not_Boring_Movies.sql)|
+| Day-12|1661|Average Time of Process per Machine| Easy | [View](Easy/1661_Average_Time_of_Process_per_Machine.sql)|
 ---
 
 ## Goals
