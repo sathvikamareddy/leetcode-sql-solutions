@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 14              |
+| Easy       | 15              |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 14              |
+| TOTAL      | 15              |
 
 ---
 
@@ -105,6 +105,7 @@ WHERE e.salary > m.salary;
 | Day-12|1661|Average Time of Process per Machine| Easy | [View](Easy/1661_Average_Time_of_Process_per_Machine.sql)|
 |Day-13| 577|Employee Bonus|Easy|[View](Easy/577_Employee_Bonous.sql)|
 |Day-14|1280|Students and Examinination|Easy|[View](Easy/1280_Students_and_Examinations.sql)|
+|Day-15|1934|Confirmation Rate|Easy|[View](Easy/1934_Confirmation_Rate.sql)|
 ---
 
 ## Goals
