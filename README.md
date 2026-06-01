@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 15              |
+| Easy       | 16              |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 15              |
+| TOTAL      | 16              |
 
 ---
 
@@ -106,6 +106,7 @@ WHERE e.salary > m.salary;
 |Day-13| 577|Employee Bonus|Easy|[View](Easy/577_Employee_Bonous.sql)|
 |Day-14|1280|Students and Examinination|Easy|[View](Easy/1280_Students_and_Examinations.sql)|
 |Day-15|1934|Confirmation Rate|Easy|[View](Easy/1934_Confirmation_Rate.sql)|
+|Day-16|511|Game Play Analysis-1|Easy|[View](Easy/511_Game_Play_Analysis_1.sql)|
 ---
 
 ## Goals
