@@ -141,5 +141,9 @@ WHERE e.salary > m.salary;
 </p>
 
 ---
+<div align="center">
 
-⭐ Consistency beats intensity. Daily progress matters.
+  
+<h3>⭐ Consistency beats intensity. Daily progress matters.</h3>
+
+</div>
