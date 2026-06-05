@@ -141,9 +141,10 @@ WHERE e.salary > m.salary;
 </p>
 
 ---
-<div align="center">
+⭐ If you find these SQL solutions helpful in your learning journey, please consider giving this repository a star. Your support is greatly appreciated!
 
-  
-<h3>⭐ Consistency beats intensity. Daily progress matters.</h3>
+------
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=1000&lines=🎯+Consistency+compounds+into+excellence+—+one+query+at+a+time." />
+</p>
