@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 19              |
+| Easy       | 20              |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 19              |
+| TOTAL      | 20              |
 
 ---
 
@@ -110,6 +110,7 @@ WHERE e.salary > m.salary;
 |Day-17|1075| Project Employees I|Easy|[View](Easy/1075_Project_Employees_I.sql)|
 |Day-18|1211|Queries Quality and Percentage|Easy|[View](Easy/1211_Queries_Quality_and_percentage.sql)|
 |Day-19|1193|Monthly Transactions I |Easy|[View](Easy/1193_Monthly_Transactions_I.sql)|
+|Day-20| 1174| Immediate Food Delivery II|Easy|[View](Easy/1174_Immediate_Food_Delivery_II.sql)|
 ---
 
 ## Goals
