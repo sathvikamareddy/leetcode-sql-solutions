@@ -1,5 +1,4 @@
 # LeetCode 178. Rank Scores
-
 ## Question
 
 Write a solution to find the rank of the scores. The ranking should be calculated according to the following rules:
