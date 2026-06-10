@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 22             |
+| Easy       | 24              |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 22              |
+| TOTAL      | 24              |
 
 ---
 
@@ -113,6 +113,8 @@ WHERE e.salary > m.salary;
 |Day-20| 1174| Immediate Food Delivery II|Easy|[View](Easy/1174_Immediate_Food_Delivery_II.sql)|
 |Day-21| 1633| percentage of Users Attended a Contest|Easy|[View](Easy/1633_Percentage_of_Users_Attended_a_Contest.sql)|                     
 |Day-22|1141| User Activity for the Past 30 Days I| Easy|[View](Easy/1141_User_Activity_for_the_Past_30_Days__I.sql)|
+|Day-23|619| Biggest Single Number |Easy|[View](Easy/619_Biggest_Single_Number.sql)|
+|Day-24| 178| Rank Scores| Med|[View](Medium/178_Rank_Scores.sql)|
 
 
 ---
