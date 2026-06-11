@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 23              |
-| Medium     | 1               |
+| Medium     | 2               |
 | Hard       | 0               |
-| TOTAL      | 24              |
+| TOTAL      | 25              |
 
 ---
 
@@ -115,6 +115,7 @@ WHERE e.salary > m.salary;
 |Day-22|1141| User Activity for the Past 30 Days I| Easy|[View](Easy/1141_User_Activity_for_the_Past_30_Days__I.sql)|
 |Day-23|619| Biggest Single Number |Easy|[View](Easy/619_Biggest_Single_Number.sql)|
 |Day-24| 178| Rank Scores| Med|[View](Medium/178_Rank_Scores.sql)|
+|Day-25|180|Consecutive Numbers|Med|[View](Medium/180_Consecutive_Numbers.sql)|
 
 
 ---
