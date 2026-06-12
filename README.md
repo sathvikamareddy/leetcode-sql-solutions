@@ -153,6 +153,7 @@ WHERE e.salary > m.salary;
 
 ------
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=1000&lines=🎯+Consistency+compounds+into+excellence+—+one+query+at+a+time." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=64FFDA&center=true&vCenter=true&width=1000&lines=✨+Turning+Ideas+Into+Code;💡+Learning,+Building,+Growing;🚀+One+Commit+Closer+To+Greatness" />
 </p>
