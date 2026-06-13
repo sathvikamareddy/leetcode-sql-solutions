@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 23              |
-| Medium     | 3               |
+| Medium     | 4               |
 | Hard       | 0               |
-| TOTAL      | 26              |
+| TOTAL      | 27              |
 
 ---
 
@@ -117,6 +117,7 @@ WHERE e.salary > m.salary;
 |Day-24| 178| Rank Scores| Med|[View](Medium/178_Rank_Scores.sql)|
 |Day-25|180|Consecutive Numbers|Med|[View](Medium/180_Consecutive_Numbers.sql)|
 |Day-26|184|Department Highest Salary|Med|[View](Medium/184_Department_Highest_Salary.sql)|
+|Day-27|626|Exchange Seats|Med|[View](Medium/626_Exchange_Seats.sql)|
 
 
 ---
