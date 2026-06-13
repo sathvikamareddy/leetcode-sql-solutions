@@ -1,5 +1,4 @@
 # LeetCode 626. Exchange Seats
-
 ## Question
 
 Write a solution to swap the seat id of every two consecutive students. If the number of students is odd, the id of the last student is not swapped.
