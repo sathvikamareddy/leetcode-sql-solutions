@@ -99,36 +99,37 @@ WHERE e.salary > m.salary;
 
 ## Solved Problems
 
-| Day | Q no | Problem | Difficulty | Solution |
-|-----|----|----------|------------|----------|
-| Day 1 | 1757 | Recyclable and Low Fat Products | 🟢 | [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
-| Day 2 | 584 | Find Customer Referee | 🟢| [View](Easy/584_Find_Customer_Referee.sql) |
-| Day 3 | 595 | Big Countries | 🟢 | [View](Easy/595_Big_Countries.sql) |
-| Day 4 | 1148 | Article Views I | 🟢 | [View](Easy/1148_Article_Views.sql) |
-| Day 5 | 1683 | Invalid Tweets | 🟢 | [View](Easy/1683_Invalid_Tweets.sql) |
-| Day 6 | 1378 | Replace Employee ID With The Unique Identifier| 🟢| [View](Easy/1378_Replace_Employee_Id_With_The_Unique_Identifier.sql) |
-| Day 7 | 1068 | Product Sales Analysis |🟢 |[View](Easy/1068_Product_Sales_Analysis1.sql) |
-| Day 8 | 1581 |  Customer Who Visited but Did Not Make Any Transactions |🟢| [View](Easy/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
-| Day 9 | 197 | Rising Temperature | 🟢 |[View](Easy/197_Rising_Temperature) |
-| Day-10| 1251| Average Selling Price | 🟢| [View](Easy/1251_Average_Selling_Price) |
-| Day-11|620| Not Boring Movies | 🟢|[View](Easy/620_Not_Boring_Movies.sql)|
-| Day-12|1661|Average Time of Process per Machine| 🟢 | [View](Easy/1661_Average_Time_of_Process_per_Machine.sql)|
-|Day-13| 577|Employee Bonus|🟢|[View](Easy/577_Employee_Bonous.sql)|
-|Day-14|1280|Students and Examinination|🟢|[View](Easy/1280_Students_and_Examinations.sql)|
-|Day-15|1934|Confirmation Rate|🟢|[View](Easy/1934_Confirmation_Rate.sql)|
-|Day-16|511|Game Play Analysis-1|🟢|[View](Easy/511_Game_Play_Analysis_1.sql)|
-|Day-17|1075| Project Employees I|🟢|[View](Easy/1075_Project_Employees_I.sql)|
-|Day-18|1211|Queries Quality and Percentage|🟢|[View](Easy/1211_Queries_Quality_and_percentage.sql)|
-|Day-19|1193|Monthly Transactions I |🟢|[View](Easy/1193_Monthly_Transactions_I.sql)|
-|Day-20| 1174| Immediate Food Delivery II|🟢|[View](Easy/1174_Immediate_Food_Delivery_II.sql)|
-|Day-21| 1633| percentage of Users Attended a Contest|🟢|[View](Easy/1633_Percentage_of_Users_Attended_a_Contest.sql)|                     
-|Day-22|1141| User Activity for the Past 30 Days I|🟢|[View](Easy/1141_User_Activity_for_the_Past_30_Days__I.sql)|
-|Day-23|619| Biggest Single Number |🟢|[View](Easy/619_Biggest_Single_Number.sql)|
-|Day-24| 178| Rank Scores|🟡|[View](Medium/178_Rank_Scores.sql)|
-|Day-25|180|Consecutive Numbers|🟡|[View](Medium/180_Consecutive_Numbers.sql)|
-|Day-26|184|Department Highest Salary|🟡|[View](Medium/184_Department_Highest_Salary.sql)|
-|Day-27|626|Exchange Seats|🟡|[View](Medium/626_Exchange_Seats.sql)|
-|Day-28|550|Game Play Analysis|🟡|[View](Medium/550_Gmae_Play_Analysis_IV.sql)|
+| Day | Problem ID | Problem Name | Difficulty | Solution |
+|:---:|:---:|---|:---:|:---:|
+| Day 1 | 1757 | Recyclable and Low Fat Products | 🟢 Easy | 🔗 [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
+| Day 2 | 584 | Find Customer Referee | 🟢 Easy | 🔗 [View](Easy/584_Find_Customer_Referee.sql) |
+| Day 3 | 595 | Big Countries | 🟢 Easy | 🔗 [View](Easy/595_Big_Countries.sql) |
+| Day 4 | 1148 | Article Views I | 🟢 Easy | 🔗 [View](Easy/1148_Article_Views.sql) |
+| Day 5 | 1683 | Invalid Tweets | 🟢 Easy | 🔗 [View](Easy/1683_Invalid_Tweets.sql) |
+| Day 6 | 1378 | Replace Employee ID With The Unique Identifier | 🟢 Easy | 🔗 [View](Easy/1378_Replace_Employee_Id_With_The_Unique_Identifier.sql) |
+| Day 7 | 1068 | Product Sales Analysis I | 🟢 Easy | 🔗 [View](Easy/1068_Product_Sales_Analysis1.sql) |
+| Day 8 | 1581 | Customer Who Visited but Did Not Make Any Transactions | 🟢 Easy | 🔗 [View](Easy/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) |
+| Day 9 | 197 | Rising Temperature | 🟢 Easy | 🔗 [View](Easy/197_Rising_Temperature.sql) |
+| Day 10 | 1251 | Average Selling Price | 🟢 Easy | 🔗 [View](Easy/1251_Average_Selling_Price.sql) |
+| Day 11 | 620 | Not Boring Movies | 🟢 Easy | 🔗 [View](Easy/620_Not_Boring_Movies.sql) |
+| Day 12 | 1661 | Average Time of Process per Machine | 🟢 Easy | 🔗 [View](Easy/1661_Average_Time_of_Process_per_Machine.sql) |
+| Day 13 | 577 | Employee Bonus | 🟢 Easy | 🔗 [View](Easy/577_Employee_Bonous.sql) |
+| Day 14 | 1280 | Students and Examinations | 🟢 Easy | 🔗 [View](Easy/1280_Students_and_Examinations.sql) |
+| Day 15 | 1934 | Confirmation Rate | 🟢 Easy | 🔗 [View](Easy/1934_Confirmation_Rate.sql) |
+| Day 16 | 511 | Game Play Analysis I | 🟢 Easy | 🔗 [View](Easy/511_Game_Play_Analysis_1.sql) |
+| Day 17 | 1075 | Project Employees I | 🟢 Easy | 🔗 [View](Easy/1075_Project_Employees_I.sql) |
+| Day 18 | 1211 | Queries Quality and Percentage | 🟢 Easy | 🔗 [View](Easy/1211_Queries_Quality_and_percentage.sql) |
+| Day 19 | 1193 | Monthly Transactions I | 🟢 Easy | 🔗 [View](Easy/1193_Monthly_Transactions_I.sql) |
+| Day 20 | 1174 | Immediate Food Delivery II | 🟢 Easy | 🔗 [View](Easy/1174_Immediate_Food_Delivery_II.sql) |
+| Day 21 | 1633 | Percentage of Users Attended a Contest | 🟢 Easy | 🔗 [View](Easy/1633_Percentage_of_Users_Attended_a_Contest.sql) |
+| Day 22 | 1141 | User Activity for the Past 30 Days I | 🟢 Easy | 🔗 [View](Easy/1141_User_Activity_for_the_Past_30_Days_I.sql) |
+| Day 23 | 619 | Biggest Single Number | 🟢 Easy | 🔗 [View](Easy/619_Biggest_Single_Number.sql) |
+| Day 24 | 178 | Rank Scores | 🟡 Medium | 🔗 [View](Medium/178_Rank_Scores.sql) |
+| Day 25 | 180 | Consecutive Numbers | 🟡 Medium | 🔗 [View](Medium/180_Consecutive_Numbers.sql) |
+| Day 26 | 184 | Department Highest Salary | 🟡 Medium | 🔗 [View](Medium/184_Department_Highest_Salary.sql) |
+| Day 27 | 626 | Exchange Seats | 🟡 Medium | 🔗 [View](Medium/626_Exchange_Seats.sql) |
+| Day 28 | 550 | Game Play Analysis IV | 🟡 Medium | 🔗 [View](Medium/550_Game_Play_Analysis_IV.sql) |
+
 
 
 ---
