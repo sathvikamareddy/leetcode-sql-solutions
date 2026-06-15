@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 23              |
-| Medium     | 5               |
+| Medium     | 6               |
 | Hard       | 0               |
-| TOTAL      | 28              |
+| TOTAL      | 29              |
 
 ---
 
@@ -129,6 +129,7 @@ WHERE e.salary > m.salary;
 | Day 26 | 184 | Department Highest Salary | 🟡 Medium | 🔗 [View](Medium/184_Department_Highest_Salary.sql) |
 | Day 27 | 626 | Exchange Seats | 🟡 Medium | 🔗 [View](Medium/626_Exchange_Seats.sql) |
 | Day 28 | 550 | Game Play Analysis IV | 🟡 Medium | 🔗 [View](Medium/550_Game_Play_Analysis_IV.sql) |
+|Day-29|177|Nth Highest Salary|🟡 Medium|🔗[View](Medium/177_Nth_Highest_Salary.sql)|
 
 
 
