@@ -4,7 +4,6 @@
 Write a query to display records that belong to a sequence of **three or more consecutive IDs** where the number of people is **greater than or equal to 100**.
 
 Return the result ordered by `visit_date` in ascending order.
-
 ---
 
 ## Approach
