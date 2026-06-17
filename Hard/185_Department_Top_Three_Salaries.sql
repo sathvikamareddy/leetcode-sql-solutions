@@ -1,3 +1,4 @@
+
 # LeetCode 185. Department Top Three Salaries
 
 ## Problem
