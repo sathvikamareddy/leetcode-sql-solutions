@@ -164,6 +164,7 @@ WHERE e.salary > m.salary;
 </p>
 
 ---
+
 ⭐ If you find these SQL solutions helpful in your learning journey, please consider giving this repository a star. Your support is greatly appreciated!
 
 ------
