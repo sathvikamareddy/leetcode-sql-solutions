@@ -133,7 +133,7 @@ WHERE e.salary > m.salary;
 |Day-30|601|Human Traffic by Stadium|🔴 Hard|🔗[View](Hard/601_Human_Traffic_of_Stadium.sql)|
 |Day-31|185|Department Top Three Salaries|🔴 Hard|🔗[View](Hard/185_Department_Top_Three_Salaries.sql)|
 |Day-32|1321|Restaurant Growth|🟡 Medium |🔗[View](Medium/1321_Restaurant_Growth.sql)|
-|Day-33|Friend Requests II: Who Has the Most Friends|🟡 Medium|🔗[View](Medium/602_Friend_Requests_II:Who_Has_the_Most_Friends.sql)|
+|Day-33|602|Friend Requests II: Who Has the Most Friends|🟡 Medium|🔗[View](Medium/602_Friend_Requests_II:Who_Has_the_Most_Friends.sql)|
 
 
 
