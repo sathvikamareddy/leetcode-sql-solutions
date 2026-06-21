@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 23              |
-| Medium     | 8`               |
+| Medium     | 9               |
 | Hard       | 2               |
-| TOTAL      | 33         |
+| TOTAL      | 34         |
 
 ---
 
@@ -134,6 +134,7 @@ WHERE e.salary > m.salary;
 |Day-31|185|Department Top Three Salaries|🔴 Hard|🔗[View](Hard/185_Department_Top_Three_Salaries.sql)|
 |Day-32|1321|Restaurant Growth|🟡 Medium |🔗[View](Medium/1321_Restaurant_Growth.sql)|
 |Day-33|602|Friend Requests II: Who Has the Most Friends|🟡 Medium|🔗[View](Medium/602_Friend_Requests_II:Who_Has_the_Most_Friends.sql)|
+|Day-34|585|Investments in 2016|🟡 Medium|🔗[View](Medium/585_Investments_in_2016.sql)|
 
 
 
