@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 23              |
-| Medium     | 11               |
+| Medium     | 12               |
 | Hard       | 2               |
-| TOTAL      | 36       |
+| TOTAL      | 37       |
 
 ---
 
@@ -137,6 +137,7 @@ WHERE e.salary > m.salary;
 |Day-34|585|Investments in 2016|🟡 Medium|🔗[View](Medium/585_Investments_in_2016.sql)|
 |Day-35|608|Tree Node|🟡 Medium|🔗[View](Medium/608_Tree_Node.sql)|
 |Day-36|610|Triangle Judgement|🟡 Medium|🔗[View](610_Triangle_Judgement.sql)|
+|Day-37|1045|Customers Who Bought All Products|🟡 Medium|🔗[View](1045_Customers_Who_Bought_All_Products.sql)|
 
 
 
