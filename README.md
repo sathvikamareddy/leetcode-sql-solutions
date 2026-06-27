@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 24              |
+| Easy       | 25             |
 | Medium     | 14               |
 | Hard       | 2               |
-| TOTAL      | 40     |
+| TOTAL      | 41     |
 
 ---
 
@@ -141,6 +141,7 @@ WHERE e.salary > m.salary;
 |Day-38|1204|Last Person to Fit in the Bus|🟡 Medium|🔗[View](Medium/1204_Last_Person_to_Fit_in_the_Bus.sql)|
 |Day-39|1667|Fix Names in a Table |🟡 Medium|🔗[View](Medium/1667_Fix_Names_in_a_Table.sql)|
 |Day-40|1527|Patients with a Condition|🟢 Easy |🔗[View](1527_Patients_with_a_Conditions.sql)|
+|Day-41|196|Delete Duplicate Emails|🟢 Easy|🔗[View](196_Delete_Duplicate_Emails.sql)|
 
 
 ---
