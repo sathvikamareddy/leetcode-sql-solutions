@@ -142,6 +142,7 @@ WHERE e.salary > m.salary;
 |Day-39|1667|Fix Names in a Table |🟡 Medium|🔗[View](Medium/1667_Fix_Names_in_a_Table.sql)|
 |Day-40|1527|Patients with a Condition|🟢 Easy |🔗[View](1527_Patients_with_a_Conditions.sql)|
 |Day-41|196|Delete Duplicate Emails|🟢 Easy|🔗[View](196_Delete_Duplicate_Emails.sql)|
+|Day-42|1795|Rearrange Products Table|🟢 Easy|🔗[View](1795_Rearrange_Products_Table.sql)|
 
 
 ---
