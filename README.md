@@ -136,12 +136,12 @@ WHERE e.salary > m.salary;
 |Day-33|602|Friend Requests II: Who Has the Most Friends|🟡 Medium|🔗[View](Medium/602_Friend_Requests_II:Who_Has_the_Most_Friends.sql)|
 |Day-34|585|Investments in 2016|🟡 Medium|🔗[View](Medium/585_Investments_in_2016.sql)|
 |Day-35|608|Tree Node|🟡 Medium|🔗[View](Medium/608_Tree_Node.sql)|
-|Day-36|610|Triangle Judgement|🟡 Medium|🔗[View](610_Triangle_Judgement.sql)|
-|Day-37|1045|Customers Who Bought All Products|🟡 Medium|🔗[View](1045_Customers_Who_Bought_All_Products.sql)|
+|Day-36|610|Triangle Judgement|🟡 Medium|🔗[View](Medium/610_Triangle_Judgement.sql)|
+|Day-37|1045|Customers Who Bought All Products|🟡 Medium|🔗[View](Medium/1045_Customers_Who_Bought_All_Products.sql)|
 |Day-38|1204|Last Person to Fit in the Bus|🟡 Medium|🔗[View](Medium/1204_Last_Person_to_Fit_in_the_Bus.sql)|
 |Day-39|1667|Fix Names in a Table |🟡 Medium|🔗[View](Medium/1667_Fix_Names_in_a_Table.sql)|
-|Day-40|1527|Patients with a Condition|🟢 Easy |🔗[View](1527_Patients_with_a_Conditions.sql)|
-|Day-41|196|Delete Duplicate Emails|🟢 Easy|🔗[View](196_Delete_Duplicate_Emails.sql)|
+|Day-40|1527|Patients with a Condition|🟢 Easy |🔗[View](Easy/1527_Patients_with_a_Conditions.sql)|
+|Day-41|196|Delete Duplicate Emails|🟢 Easy|🔗[View](Easy/196_Delete_Duplicate_Emails.sql)|
 |Day-42|1795|Rearrange Products Table|🟢 Easy|🔗[View](1795_Rearrange_Products_Table.sql)|
 
 
