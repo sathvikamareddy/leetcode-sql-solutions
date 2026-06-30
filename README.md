@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 26              |
-| Medium     | 14               |
+| Medium     | 15               |
 | Hard       | 2               |
-| TOTAL      | 42     |
+| TOTAL      | 43     |
 
 ---
 
@@ -143,6 +143,7 @@ WHERE e.salary > m.salary;
 |Day-40|1527|Patients with a Condition|🟢 Easy |🔗[View](Easy/1527_Patients_with_a_Conditions.sql)|
 |Day-41|196|Delete Duplicate Emails|🟢 Easy|🔗[View](Easy/196_Delete_Duplicate_Emails.sql)|
 |Day-42|1795|Rearrange Products Table|🟢 Easy|🔗[View](1795_Rearrange_Products_Table.sql)|
+|Day-43|1341|Movie Rating|🟡 Medium|🔗[View](Medium/1341_Movie_Rating.sql)|
 
 
 ---
