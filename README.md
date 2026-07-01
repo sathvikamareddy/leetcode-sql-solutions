@@ -144,7 +144,7 @@ WHERE e.salary > m.salary;
 |Day-41|196|Delete Duplicate Emails|🟢 Easy|🔗[View](Easy/196_Delete_Duplicate_Emails.sql)|
 |Day-42|1795|Rearrange Products Table|🟢 Easy|🔗[View](1795_Rearrange_Products_Table.sql)|
 |Day-43|1341|Movie Rating|🟡 Medium|🔗[View](Medium/1341_Movie_Rating.sql)|
-|Day-44|1174|Immediate Food Delivery II|🟡 Medium|[View](Medium/1174_Immediate_Food_Delivery_II.sql)|
+|Day-44|1174|Immediate Food Delivery II|🟡 Medium|🔗[View](Medium/1174_Immediate_Food_Delivery_II.sql)|
 
 
 ---
