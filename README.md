@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 26              |
-| Medium     | 16              |
+| Medium     | 17              |
 | Hard       | 2               |
-| TOTAL      | 44     |
+| TOTAL      | 45     |
 
 ---
 
@@ -145,7 +145,7 @@ WHERE e.salary > m.salary;
 |Day-42|1795|Rearrange Products Table|🟢 Easy|🔗[View](1795_Rearrange_Products_Table.sql)|
 |Day-43|1341|Movie Rating|🟡 Medium|🔗[View](Medium/1341_Movie_Rating.sql)|
 |Day-44|1174|Immediate Food Delivery II|🟡 Medium|🔗[View](Medium/1174_Immediate_Food_Delivery_II.sql)|
-
+|Day-45|1164| Product Price at a Given Date|🟡 Medium|🔗[View](Medium/1164_Product_Price_at_a_Given_Date.sql)|
 
 ---
 
