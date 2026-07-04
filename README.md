@@ -1,9 +1,6 @@
-
-
 <div align="center">
 
-  
-# LeetCode SQL Solutions
+  # LeetCode SQL Solutions
 
 </div>
 
