@@ -147,7 +147,7 @@ WHERE e.salary > m.salary;
 |Day-44|1174|Immediate Food Delivery II|🟡 Medium|🔗[View](Medium/1174_Immediate_Food_Delivery_II.sql)|
 |Day-45|1164| Product Price at a Given Date|🟡 Medium|🔗[View](Medium/1164_Product_Price_at_a_Given_Date.sql)|
 |Day-46|1731| The Number of Employees Which Report to Each Employee|🟢 Easy|🔗[View](Easy/1731_Employees_Report_To_Each_Employee.sql)|
-|Day-47|1789|Primary Department for Each Employee|🟢 Easy|🔗[View](Easy/1731_Primary_Department_for_Each_Employee.sql)|
+|Day-47|1789|Primary Department for Each Employee|🟢 Easy|🔗[View](Easy/1789_Primary_Department_for_Each_Employee.sql)|
 
 ---
 
