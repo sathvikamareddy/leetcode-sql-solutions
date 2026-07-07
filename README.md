@@ -186,5 +186,5 @@ WHERE e.salary > m.salary;
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=64FFDA&center=true&vCenter=true&width=1000&lines=✨+Turning+Ideas+Into+Code;💡+Learning,+Building,+Growing;🚀+One+Commit+Closer+To+Greatness" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=88C0D0&center=true&vCenter=true&width=850&lines=SELECT+*+FROM+LeetCode_SQL;CREATE+TABLE+Daily_SQL_Practice;INSERT+INTO+Skills+VALUES('SQL');SELECT+COUNT(*)+FROM+Solved_Problems;UPDATE+Knowledge+SET+Level='Advanced';ALTER+TABLE+Skills+ADD+Window_Functions;COMMIT+SQL_Journey;" />
 </p>
