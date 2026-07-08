@@ -82,7 +82,7 @@ WHERE e.salary > m.salary;
 | ---------- | --------------- |
 | Easy       | 28             |
 | Medium     | 17              |
-| Hard       | 2               |
+| Hard       | 3               |
 | TOTAL      | 47              |
 
 ---
@@ -148,6 +148,7 @@ WHERE e.salary > m.salary;
 |Day-45|1164| Product Price at a Given Date|🟡 Medium|🔗[View](Medium/1164_Product_Price_at_a_Given_Date.sql)|
 |Day-46|1731| The Number of Employees Which Report to Each Employee|🟢 Easy|🔗[View](Easy/1731_Employees_Report_To_Each_Employee.sql)|
 |Day-47|1789|Primary Department for Each Employee|🟢 Easy|🔗[View](Easy/1789_Primary_Department_for_Each_Employee.sql)|
+|Day-48|262|Trips and Users|🔴 Hard|🔗[View](Hard/262_Trips_and_Users.sql)|
 
 ---
 
