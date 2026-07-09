@@ -149,6 +149,7 @@ WHERE e.salary > m.salary;
 |Day-46|1731| The Number of Employees Which Report to Each Employee|🟢 Easy|🔗[View](Easy/1731_Employees_Report_To_Each_Employee.sql)|
 |Day-47|1789|Primary Department for Each Employee|🟢 Easy|🔗[View](Easy/1789_Primary_Department_for_Each_Employee.sql)|
 |Day-48|262|Trips and Users|🔴 Hard|🔗[View](Hard/262_Trips_and_Users.sql)|
+|Day-49|571|Median Given Frequency of Nuumbers|🔴 Hard|🔗[View](Hard/571_Find_Median_Given_Frequency_of_Numbers.sql)|
 
 ---
 
