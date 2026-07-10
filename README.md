@@ -82,8 +82,8 @@ WHERE e.salary > m.salary;
 | ---------- | --------------- |
 | Easy       | 28             |
 | Medium     | 17              |
-| Hard       | 3               |
-| TOTAL      | 47              |
+| Hard       | 4              |
+| TOTAL      | 48              |
 
 ---
 
