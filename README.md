@@ -82,8 +82,8 @@ WHERE e.salary > m.salary;
 | ---------- | --------------- |
 | Easy       | 28             |
 | Medium     | 17              |
-| Hard       | 4              |
-| TOTAL      | 48              |
+| Hard       | 5              |
+| TOTAL      | 50            |
 
 ---
 
@@ -150,6 +150,7 @@ WHERE e.salary > m.salary;
 |Day-47|1789|Primary Department for Each Employee|🟢 Easy|🔗[View](Easy/1789_Primary_Department_for_Each_Employee.sql)|
 |Day-48|262|Trips and Users|🔴 Hard|🔗[View](Hard/262_Trips_and_Users.sql)|
 |Day-49|571|Median Given Frequency of Nuumbers|🔴 Hard|🔗[View](Hard/571_Find_Median_Given_Frequency_of_Numbers.sql)|
+|Day-50|569|Median Employee Salary|🔴 Hard|🔗[View](Hard/569_Median_Employee_Salary.sql)|
 
 ---
 
