@@ -152,6 +152,7 @@ WHERE e.salary > m.salary;
 |Day-49|571|Median Given Frequency of Nuumbers|🔴 Hard|🔗[View](Hard/571_Find_Median_Given_Frequency_of_Numbers.sql)|
 |Day-50|569|Median Employee Salary|🔴 Hard|🔗[View](Hard/569_Median_Employee_Salary.sql)|
 |Day-51|1587|Bank Account Summary II|🟢 Easy|🔗[View](Easy/Bank_Account_Summary_II)|
+|Day-52|570|Managers with at Least 5 Direct Reports|🟡 Medium|🔗[View](Medium/570_Managers_with_at_Least_5_Direct_Reports.sql)|
 
 
 ---
