@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 29              |
+| Easy       | 30              |
 | Medium     | 18              |
 | Hard       | 5               |
-| TOTAL      | 52              |
+| TOTAL      | 53              |
 
 ---
 
@@ -153,6 +153,7 @@ WHERE e.salary > m.salary;
 |Day-50|569|Median Employee Salary|🔴 Hard|🔗[View](Hard/569_Median_Employee_Salary.sql)|
 |Day-51|1587|Bank Account Summary II|🟢 Easy|🔗[View](Easy/Bank_Account_Summary_II)|
 |Day-52|570|Managers with at Least 5 Direct Reports|🟡 Medium|🔗[View](Medium/570_Managers_with_at_Least_5_Direct_Reports.sql)|
+|Day-53|586|Customer Placing the Largest Number of Orders|🟢 Easy|🔗[View](Easy/586_Customer_Placing_the_Largest_Number_of_Orders.sql)|
 
 
 ---
