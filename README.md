@@ -155,6 +155,7 @@ WHERE e.salary > m.salary;
 |Day-52|570|Managers with at Least 5 Direct Reports|🟡 Medium|🔗[View](Medium/570_Managers_with_at_Least_5_Direct_Reports.sql)|
 |Day-53|586|Customer Placing the Largest Number of Orders|🟢 Easy|🔗[View](Easy/586_Customer_Placing_the_Largest_Number_of_Orders.sql)|
 |Day-54|1050|Actors and Directors Who Cooperated At Least Three Times|🟢 Easy|🔗[View](Easy/1050_Actors_and_Directors._who_Cooperated_At_Least_Three_Times.sql)|
+|Day-55|607|Sales Person|🟢 Easy|🔗[View](Easy/607_Sales_Person.sql)|
 
 ---
 
