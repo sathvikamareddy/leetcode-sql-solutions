@@ -157,7 +157,7 @@ WHERE e.salary > m.salary;
 |Day-54|1050|Actors and Directors Who Cooperated At Least Three Times|🟢 Easy|🔗[View](Easy/1050_Actors_and_Directors._who_Cooperated_At_Least_Three_Times.sql)|
 |Day-55|607|Sales Person|🟢 Easy|🔗[View](Easy/607_Sales_Person.sql)|
 |Day-56|1070|Product Sales Analysis III|🟡 Medium|🔗[View](Medium/1070_Product_Sales_Analysis_III.sql)|
-|Day-57|627|Swap Sex of Employees|🟢 Easy|[View](Easy/627_Swap_Sex_of_Employees.sql)|
+|Day-57|627|Swap Sex of Employees|🟢 Easy|🔗[View](Easy/627_Swap_Sex_of_Employees.sql)|
 
 ---
 
