@@ -1,5 +1,4 @@
 # 1070. Product Sales Analysis III
-
 **Difficulty:** Easy  
 
 ## Problem Statement
