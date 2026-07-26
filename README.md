@@ -158,6 +158,8 @@ WHERE e.salary > m.salary;
 |Day-55|607|Sales Person|🟢 Easy|🔗[View](Easy/607_Sales_Person.sql)|
 |Day-56|1070|Product Sales Analysis III|🟡 Medium|🔗[View](Medium/1070_Product_Sales_Analysis_III.sql)|
 |Day-57|627|Swap Sex of Employees|🟢 Easy|🔗[View](Easy/627_Swap_Sex_of_Employees.sql)|
+|DAY-58|1075|Project Employees I|🟢 Easy|🔗[View](Easy/1075_Project_Employees_I.sql)|
+
 
 ---
 
