@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 35              |
+| Easy       | 36             |
 | Medium     | 19              |
 | Hard       | 5               |
-| TOTAL      | 59             |
+| TOTAL      | 61             |
 
 ---
 
@@ -160,6 +160,8 @@ WHERE e.salary > m.salary;
 |Day-57|627|Swap Sex of Employees|🟢 Easy|🔗[View](Easy/627_Swap_Sex_of_Employees.sql)|
 |DAY-58|1075|Project Employees I|🟢 Easy|🔗[View](Easy/1075_Project_Employees_I.sql)|
 |Day-60|1327|List the Products Ordered in a Period|🟢 Easy|🔗[View](Easy/1327_List_the_Products_Ordered_in_a_Period.sql)|
+|Day-61|1517 |Find Users With Valid E-Mails|🟢 Easy|🔗[View](Easy/1517_Find_Users_With_Valid_Emails.sql)|
+
 
 
 ---
