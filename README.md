@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 37              |
+| Easy       | 38              |
 | Medium     | 20             |
 | Hard       | 5               |
-| TOTAL      | 63            |
+| TOTAL      | 64            |
 
 ---
 
@@ -163,6 +163,7 @@ WHERE e.salary > m.salary;
 |Day-61|1517 |Find Users With Valid E-Mails|🟢 Easy|🔗[View](Easy/1517_Find_Users_With_Valid_Emails.sql)|
 |Day-62|1141|User Activity for the Past 30 Days I|🟢 Easy|🔗[View](Easy/1141_User_Activity_For_The_Past_30_Days_I.sql)|
 |Day-63|1393|Capital Gain/Loss|🟡 Medium|🔗[View](Medium/1393_Capital_Gain_or_Loss.sql)|
+|Day-64|1484|Group Sold Products By The Date|🟢 Easy|🔗[View](Easy/1484_Group_Sold_Products_By_The_Date.sql)|
 
 
 
